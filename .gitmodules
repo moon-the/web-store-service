@@ -1,0 +1,3 @@
+[submodule "ntt.web.store"]
+	path = ntt.web.store
+	url = https://github.com/thinhorigami/ntt.web.store
